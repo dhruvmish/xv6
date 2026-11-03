@@ -1,5 +1,5 @@
 Overview
-This repository contains modifications made to the xv6 operating system as part of a course project at IIT Guwahati. The project, guided by Dr. Phrangboklang Lyngton Thangkhiew, focused on enhancing xv6's core functionality in scheduling and memory management.
+This repository contains modifications made to the xv6 operating system.
 
 Key Features
 This project includes the following key implementations:
